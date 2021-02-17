@@ -1,6 +1,9 @@
 body {
   background-color:  purple;
 }
+h2 {
+  padding: 20x 70px 20px;
+}
 .date {
   float: right;
   {
