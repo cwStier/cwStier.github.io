@@ -1,7 +1,10 @@
 body {
   background-color:  purple;
 }
-
+img {
+  width: 100%;
+  height: auto;
+}
 .Section-Title {
   font-family: 'Open Sans';
   text-decoration: underline;
