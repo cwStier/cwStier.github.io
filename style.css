@@ -1,6 +1,9 @@
 body {
   background-color:  purple;
 }
+.date {
+  float: right;
+  {
 .Section-Title {
   font-family: 'Open Sans';
   text-decoration: underline;
