@@ -1,6 +1,9 @@
 body {
   background-color:  purple;
 }
+p {
+  padding: 35px 70px 50px;
+}
 .Section-Title {
   font-family: 'Open Sans';
   text-decoration: underline;
