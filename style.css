@@ -1,5 +1,9 @@
 body {
   background-color:  purple;
+  img {
+  max-width: 100px;
+  height: auto;
+}
 }
 img {
   max-width: 100px;
