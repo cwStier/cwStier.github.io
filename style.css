@@ -1,14 +1,6 @@
 body {
   background-color:  purple;
 }
-div {
-  width: 100%;
-  height: 400px;
-  background-image: url('img_flowers.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  border: 1px solid red;
-}
 .Section-Title {
   font-family: 'Open Sans';
   text-decoration: underline;
