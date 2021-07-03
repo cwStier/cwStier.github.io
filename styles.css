@@ -1,0 +1,32 @@
+body {
+    background-image:  linear-gradient(rgb(136, 19, 136), rgb(255, 187, 0));
+    top: 1em;
+}
+
+h1 {
+  text-align: center;
+  top: 1em;
+}
+
+.info {
+  text-align: center;
+  top: 1em;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: 3px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
